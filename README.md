@@ -1,4 +1,4 @@
-<img width="1677" alt="Screenshot 2025-07-07 at 2 21 54 PM" src="https://github.com/user-attachments/assets/e4af7bf7-158f-490a-b13b-deb034a085a0" /># Smart Card Counter – Flask + OpenCV
+# Smart Card Counter – Flask + OpenCV
 
 This is a Flask web application that detects the number of playing cards in an uploaded image and updates a running count using the Hi-Lo card counting system used in Blackjack.
 
